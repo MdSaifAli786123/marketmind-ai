@@ -1,0 +1,234 @@
+﻿raw_location,job_count,remote_jobs
+Berlin,78,8
+Munich,59,2
+Cologne,25,2
+Frankfurt am Main,18,3
+Stuttgart,16,1
+Hamburg,13,1
+"Berlin, Germany",12,0
+,9,9
+"Berlin, Berlin, Germany",9,0
+Dresden,8,0
+Nuremberg,8,1
+Bonn,7,0
+Leipzig,7,0
+Mannheim,7,4
+Braunschweig,6,0
+Flensburg,6,0
+Kiel,6,0
+Molbergen,6,0
+"Ø§ÙÙØ¯ÙÙØ©, Ø§ÙÙØ¯ÙÙØ© Ø§ÙÙØ¯ÙÙØ© Ø§ÙØ³Ø¹ÙØ¯ÙØ©",6,6
+Bochum,5,0
+"Brasil,",5,5
+Münster,5,1
+Düsseldorf,4,1
+Essen,4,0
+Hanover,4,0
+Markt Indersdorf,4,4
+Regensburg,4,1
+"Anupgarh,",3,3
+Augsburg,3,0
+Chemnitz,3,1
+Landau,3,2
+"London,",3,3
+Ludwigsburg,3,1
+Mülheim,3,0
+"München, Bayern, Germany",3,0
+"Philippines,",3,3
+"Remote,",3,3
+Würzburg,3,1
+"Austin, Austin, Texas, United States",2,2
+Bischofsheim in der Rhön,2,2
+Bremen,2,0
+Dortmund,2,1
+"EspaÃ±a,",2,2
+Herford,2,0
+Hilden,2,0
+Idstein,2,0
+Kaarst,2,0
+Kempten,2,0
+Köln,2,0
+"Labyrinth,",2,2
+Langenhagen,2,0
+Leinfelden-Echterdingen,2,0
+"Lethbridge,",2,2
+Lingen,2,1
+Mainz,2,2
+Minden,2,0
+"Munich, Bavaria, Germany",2,0
+Neufahrn bei Freising,2,0
+"New York, New York, New York, United States",2,2
+Oberhausen,2,0
+Passau,2,2
+Ravensburg,2,0
+Schönefeld,2,0
+"Sydney, Sydney, New South Wales, Australia",2,2
+Taunusstein,2,2
+"Toronto, Toronto, Ontario, Canada",2,2
+Trossingen,2,0
+"United States,",2,2
+Weil am Rhein,2,0
+Weingarten,2,0
+Wustermark,2,0
+"Albury,",1,1
+Altdorf bei Nürnberg,1,0
+Amberg,1,0
+"Apopka,",1,1
+Aschersleben,1,0
+Backnang,1,0
+Bad Krozingen,1,0
+Bad Säckingen,1,0
+Baiersdorf,1,0
+Beilngries,1,0
+"Berwick,",1,1
+Bielefeld,1,0
+Bruchköbel,1,0
+Bruchmühlbach-Miesau,1,0
+"California, California, United States",1,1
+"Cambridge,",1,1
+"Chester,",1,1
+"Cloquet,",1,1
+"Connecticut, Connecticut, United States",1,1
+Darmstadt,1,0
+"Dehradun,",1,1
+Delmenhorst,1,0
+"Dharmavaram,",1,1
+Dingolfing,1,0
+Duisburg,1,0
+Dülmen,1,0
+Eching,1,0
+Edling,1,0
+Ehingen,1,0
+Eichenzell,1,0
+Emskirchen,1,0
+Erfurt,1,0
+Erfweiler,1,0
+Eschborn,1,0
+Ettlingen,1,0
+Falkensee,1,0
+Fischen,1,0
+Forchheim,1,0
+"Fort William,",1,1
+Frankenheim,1,0
+Freiburg im Breisgau,1,0
+"Frome,",1,1
+Fürth,1,0
+Gaimersheim,1,0
+Garching an der Alz,1,0
+Gau-Bickelheim,1,0
+Gemmrigheim,1,0
+"Gironde,",1,1
+"Glendale,",1,1
+"Goilkera,",1,1
+"Good Design,",1,1
+"Granada,",1,1
+"Granada, Granada, AndalucÃ­a, EspaÃ±a",1,1
+"Greater Edinburgh Area,",1,1
+"Greater Houston,",1,1
+"Greater Nagpur Area,",1,1
+"Greater Sydney Area,",1,1
+Gröbenzell,1,0
+"Guindy,",1,1
+Gärtringen,1,0
+Göppingen,1,0
+"Hamburg, Germany",1,0
+Hasloh,1,0
+Heidelberg,1,0
+"High Beech,",1,1
+Hockenheim,1,0
+Hohenwestedt,1,0
+"Hollywood, Hollywood, Florida, United States",1,1
+Hüfingen,1,0
+India,1,1
+"Indiana,",1,1
+Isen,1,0
+"Jaipur,",1,1
+"Jodhpur,",1,1
+Kaiserslautern,1,0
+"Kanke,",1,1
+Karlsfeld,1,0
+Karlsruhe,1,0
+Kevelaer,1,1
+Kleinmachnow,1,0
+Konstanz,1,0
+Krien,1,0
+Kulmbach,1,1
+Königsbach-Stein,1,0
+Königstein im Taunus,1,1
+Küssaberg,1,0
+Langenfeld,1,0
+"Las Vegas, Las Vegas, Nevada, United States",1,1
+Lauter,1,0
+Lauterbach,1,0
+Lemgow,1,0
+Leverkusen,1,0
+Lietzow,1,1
+"Madrid,",1,1
+Magdeburg,1,0
+Marlow,1,0
+Montabaur,1,0
+Morbach,1,0
+Murg,1,0
+München,1,1
+Neumarkt in der Oberpfalz,1,0
+Neunkirchen,1,0
+Nordhausen,1,0
+"Northeast Region,",1,1
+Oberstenfeld,1,0
+Obersulm,1,0
+Offenbach am Main,1,0
+Offenburg,1,0
+"Open Hall,",1,1
+"Orlando, Orlando, Florida, United States",1,1
+"Oxford,",1,1
+"Palm Beach, Palm Beach, Florida, United States",1,1
+"Pasadena, Pasadena, California, United States",1,1
+"Philadelphia, Philadelphia, Pennsylvania, United States",1,1
+"Pittsburgh,",1,1
+"Pratau, Saxony-Anhalt, Germany",1,0
+Puchheim,1,0
+"Quito,",1,1
+Ratingen,1,1
+Reken,1,0
+"Remote - USA,",1,1
+Remseck,1,0
+Reutlingen,1,0
+Rheda-Wiedenbrück,1,0
+Rüsselsheim,1,0
+"Sacramento, Sacramento, California, United States",1,1
+Salem,1,0
+"San Isidro, San Isidro, PerÃº",1,1
+Schondorf am Ammersee,1,0
+Schopp,1,0
+Schwetzingen,1,0
+Schwäbisch Hall,1,1
+Siegburg,1,1
+Siegen,1,0
+Siek,1,0
+Steinach,1,0
+Steinau an der Straße,1,0
+Steingaden,1,0
+"Surabaya,",1,1
+Surberg,1,0
+"Swansea, Swansea, Wales, United Kingdom",1,1
+Sylt,1,1
+"Texas City, Texas City, Texas, United States",1,1
+Traunreut,1,0
+Uhingen,1,0
+UK,1,1
+United Kingdom - Remote,1,1
+"United Kingdom,",1,1
+Urbach,1,0
+"Venezuela,",1,1
+"Wagga Wagga,",1,1
+"Walling,",1,1
+Wangen im Allgäu,1,0
+Wedemark,1,0
+Weilheim in Oberbayern,1,0
+Weitersburg,1,0
+Westerkappeln,1,0
+Wetzlar,1,0
+Wiehl,1,0
+Wuppertal,1,1
+"Wynn Vale,",1,1
+Öhringen,1,0
