@@ -7,10 +7,7 @@ from sqlalchemy import func, select
 
 from database.connection import SessionLocal
 from database.models import Job
-from pipeline.refresh_state import (
-    get_refresh_status,
-)
-from rag.vector_store import get_vector_store
+from pipeline.refresh_state import get_refresh_status
 
 
 # ==========================================================
@@ -51,29 +48,18 @@ def _get_database_job_count() -> int:
 
 def _get_vector_count() -> int | None:
     """
-    Return the current number of documents stored in the
-    Chroma collection.
+    TEMPORARY DIAGNOSTIC:
 
-    None is returned when the vector store cannot be read.
-    This prevents the dataset-status endpoint from failing
-    solely because the semantic index is unavailable.
+    Do not access the Chroma vector store from this endpoint.
+
+    We are testing whether get_vector_store() / Chroma is
+    responsible for the /system/dataset-status request hanging.
+
+    Returning None allows the rest of the dataset status
+    endpoint to respond normally.
     """
 
-    try:
-
-        vector_store = (
-            get_vector_store()
-        )
-
-        return int(
-            vector_store
-            ._collection
-            .count()
-        )
-
-    except Exception:
-
-        return None
+    return None
 
 
 def _safe_dict(
@@ -101,14 +87,8 @@ def dataset_status() -> dict[str, Any]:
     Return operational information about the current
     job-market dataset and the most recent refresh.
 
-    The endpoint combines:
-
-    - actual PostgreSQL job count
-    - actual Chroma document count
-    - persisted refresh metadata
-    - ingestion metrics
-    - enrichment metrics
-    - vector synchronization metrics
+    TEMPORARILY:
+    Chroma vector count is disabled for diagnosis.
     """
 
     # ------------------------------------------------------
