@@ -1,6 +1,7 @@
 App link: https://marketmind-ai-i66o.onrender.com/ 
 # MarketMind AI
 
+
 ### AI-Powered Job Market Intelligence Platform with Hybrid Retrieval-Augmented Generation
 
 MarketMind AI is an end-to-end job market intelligence platform designed to collect, normalize, enrich, analyze, retrieve, and interpret job-market data from multiple sources.
